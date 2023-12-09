@@ -422,18 +422,18 @@ nav .fas{
 
   
 /*--------------------smaill screen-----*/
-@media only screen and (max-width: 950px) {
+@media only screen and (max-width: 1000px) {
     #header{
        background-image: url(image/back-phone-1.jpg);
     }
     .header-text{
         margin-top: 100%;
-        font-size: 16px;
+        font-size: 10px;
         color: rgb(0, 153, 255);
         font-weight: 600;
     }
     .header-text h1{
-        font-size: 30px;
+        font-size: 20px;
     }
     nav .fas{
         display: block;
